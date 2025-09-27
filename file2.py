@@ -1,1 +1,1 @@
-print("keep going amn!!!")
+print("keep going man!!!")
